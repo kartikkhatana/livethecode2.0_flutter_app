@@ -1,4 +1,4 @@
-# event_app
+# Relief App
 
 A new Flutter project.
 
